@@ -2,7 +2,7 @@
 
 body {
   text-align: center;
-  background-color:#DCE1F1;
+  background-color: #DCE1F1;
   font-family: 'Red Hat Display', sans-serif;
   font-weight: 100;
 }
@@ -29,7 +29,7 @@ p {
 .countdown-number {
   padding: 10px;
   border-radius: 3px;
-  background-color:#7187C7;
+  background-color: #7187C7;
   display: inline-block;
 }
  
