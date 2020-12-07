@@ -14,8 +14,9 @@
    
    - Кнопка запуска таймера (start) / Кнопка паузы (pause) / Кнопка сброса времени и остановки таймер (reset)
 
-4. По окончании работы таймера вывести текст о успешном завершении.
+4. По окончании работы таймера выводит текст о успешном завершении.
 
+![Иллюстрация к проекту - "Countdown clock done"](https://github.com/AlenaPliusnina/Timer-web-app/blob/master/screenshots/countdown_clock_done.png)
 
 Реализация:
 
