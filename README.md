@@ -1,5 +1,7 @@
 # Timer-web-app. Веб-приложение таймер обратного отсчета.
 
+![Иллюстрация к проекту - "Countdown clock"](https://github.com/AlenaPliusnina/Timer-web-app/blob/master/screenshots/countdown_clock.png)
+
 Описание функционала:
 
 1. Пользователь имеет возможность выбрать интервал от 59 минут 59 секунд до 0 секунд.
